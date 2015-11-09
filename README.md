@@ -1,5 +1,5 @@
 # CouseraCertification
-##This is a collection of all my Cousera Certification
+##This is a collection of all my Cousera Certifications
 - Algorithms: Design and Analysis                                      Stanford University , Certified,  Grade: 99.2%  
 - Data structures: Measuring and Optimizing Performance                UCSanDiego , Certified,  Grade: 99.7%         
 - Advanced Data Structures and Algorithms                              Peking University, Certified,  Grade: 95.2%         
